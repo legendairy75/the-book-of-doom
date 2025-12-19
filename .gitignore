@@ -1,0 +1,20 @@
+
+# Obsidian
+.obsidian/workspace.json
+.obsidian/cache
+.obsidian/plugins/*/data.json
+
+# Logseq
+logseq/bak
+logseq/cache
+logseq/graphs-txid.edn
+logseq/metadata.edn
+
+# OS noise
+.DS_Store
+Thumbs.db
+
+# Temp / conflicts
+*.swp
+*.tmp
+*.conflict*
