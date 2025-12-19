@@ -1,0 +1,25 @@
+- `ls -l` (long list) lists the permissions of a file or directory
+	- -rw-r-x--x user groupe
+	- *r* for read, allowing you to read the file or ls a dir
+	- *w* for write, allowing you to write into the file or add/remove file from dir
+	- *x* for exicute, alowwing you to exicute the file or cd into dir
+- `chmod` changes permissions
+	- `chmod u=rw,g=rx,o=x`
+		- u+x,g+x,o+x
+		- a+x
+		- +x (works 90% of the time)
+	- *u* is user
+	- *g* is groupe
+	- *o* is other
+	- there is also *a* for all
+	- ## octal values
+	- user, groupe and other have octal values
+	- u=4
+	- g=2
+	- o=1
+	- `chmod 755` changes all values to new octal value
+	- 7: u=rwx
+	- 5: g=-wx
+	- 5: o=-wx
+	- another common case is `chmod 664`
+	-
