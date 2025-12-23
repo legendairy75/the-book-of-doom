@@ -1,0 +1,72 @@
+{:blocks (
+{:block/content ""
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "694997fb-7fc0-4242-85cc-87ea38a8d255"}
+:block/parent 
+{:block/uuid #uuid "694997fb-7fc0-4242-85cc-87ea38a8d255"}
+:block/uuid #uuid "6949981f-5913-479a-86ec-8bec79ac9965"} 
+{:block/created-at 1766430950614
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:rotation 0.0003237810456582224
+:borderRadius 2
+:index 0
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "box"
+:size [941.4393276531919 678.7120501679628]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:label ""
+:id "4f0af150-df6a-11f0-a916-6f412dd9ff7c"
+:fontWeight 400
+:noFill false
+:point [-3191.9507838812838 -2975.970824992835]
+:fontSize 20
+:parentId "694997fb-7fc0-4242-85cc-87ea38a8d255"
+:nonce 1766430937675
+:italic false}}
+:block/updated-at 1766430950614} 
+{:block/content "Ecample"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "6949981f-5913-479a-86ec-8bec79ac9965"}
+:block/parent 
+{:block/uuid #uuid "694997fb-7fc0-4242-85cc-87ea38a8d255"}
+:block/uuid #uuid "69499897-a08c-4e5c-a35c-9868b23a0c6d"} 
+{:block/content "Ecample"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "69499897-a08c-4e5c-a35c-9868b23a0c6d"}
+:block/parent 
+{:block/uuid #uuid "694997fb-7fc0-4242-85cc-87ea38a8d255"}
+:block/uuid #uuid "694998aa-fabd-4138-a33e-67ade53c153c"} 
+{:block/content "Ecample"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "694998aa-fabd-4138-a33e-67ade53c153c"}
+:block/parent 
+{:block/uuid #uuid "694997fb-7fc0-4242-85cc-87ea38a8d255"}
+:block/uuid #uuid "694998b9-5669-4461-b21d-c43d7264560b"})
+:pages (
+{:block/uuid #uuid "694997fb-7fc0-4242-85cc-87ea38a8d255"
+:block/properties 
+{:ls-type :whiteboard-page
+:logseq.tldraw.page 
+{:id "694997fb-7fc0-4242-85cc-87ea38a8d255"
+:name "694997fb-7fc0-4242-85cc-87ea38a8d255"
+:bindings 
+{}
+:nonce 1
+:assets []
+:shapes-index ("4f0af150-df6a-11f0-a916-6f412dd9ff7c")}}
+:block/updated-at 1766430950613
+:block/created-at 1766430715136
+:block/type "whiteboard"
+:block/name "694997fb-7fc0-4242-85cc-87ea38a8d255"
+:block/original-name "694997fb-7fc0-4242-85cc-87ea38a8d255"})}
