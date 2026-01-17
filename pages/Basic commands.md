@@ -10,6 +10,7 @@
 	- lets you view the contense of one or more files
 	- `cat file1 file2 ...`
 - Cat can laso make and edit a file with `cat > file1` or add to a file with `cat >> file1`
+  id:: 69498726-8df6-4b16-b7c6-753a469f84dc
   collapsed:: true
 	- becarful wit h *cat > file1* as it will erase everything in the file before adding new content
 - ## Standard input & output (stdin, stdout)
