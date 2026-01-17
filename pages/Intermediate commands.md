@@ -78,3 +78,4 @@
 	- like *man* info has the informantion you may need and often more than man
 - you can also try the --help (-h) flag after a command, this will give you a description and maybey flag info `ls --help`
 - theres also tldr, a shorter version of --help
+-
