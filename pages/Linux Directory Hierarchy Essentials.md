@@ -1,0 +1,21 @@
+- /bin
+	- Contains ready to run programs
+	- includes ls and cp
+- /dev
+	- Contains device files
+- /etc
+	- Contains  User password, boot, device, networking, and other setup files
+- /home
+	- holds the users personal (home) directories
+- /lib
+	- abriviation for library
+	- contains code that exicutables can use
+	-
+- /proc
+- /run
+- /sys
+- /sbin
+- /tmp
+- /usr
+- /var
+- ## Other Root Subdirectories
